@@ -1,0 +1,32 @@
+POST https://api.github.com/user?username=Yamazhiki&password=wangbin132
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-13T033445.401.json
+
+###
+
+POST https://github.com/login/oauth/authorize
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-13T033230.403.txt
+
+###
+
+POST https://github.com/login/oauth/access_token
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-13T033140.404.txt
+
+###
+
+POST https://github.com/login/oauth/access_token
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-13T033133.404.txt
+
+###
+
